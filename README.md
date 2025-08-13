@@ -33,7 +33,7 @@ This project consists of me creating and configuring the settings of a Virtual M
 <img src="https://i.imgur.com/ycvITsp.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-4. Next i went into 'Virtual Machines' and started to create a VM:  <br/>
+4. Next i went into 'Virtual Machines' and started to create our project machine:  <br/>
 <img src="https://i.imgur.com/DWYCPvZ.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
