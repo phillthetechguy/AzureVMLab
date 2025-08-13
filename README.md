@@ -37,55 +37,38 @@ This project consists of me creating and configuring the settings of a Virtual M
 <img src="https://i.imgur.com/DWYCPvZ.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-5. I made sure my RG was the same one i created along with naming my VM and making sure the region is correct:  <br/>
+5. I made sure my group was the one i created along with naming my VM and making sure the region was correct:  <br/>
 <img src="https://i.imgur.com/EzJhgvy.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+6. Next i set my image to 'Windows server 2022' and size to 'Standard_B1s'(Both Free Tier and sufficent for basic testing):  <br/>
+<img src="https://i.imgur.com/QoumDHQ.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+7. Set username and password for the VM and also made sure the correct port was being used (3389 for RDP):  <br/>
+<img src="https://i.imgur.com/ogMD3O0.png" height="80%" width="80%" alt="Azure VM Steps"/>
+ <br />
+ <br />
+8. I used the default settings for the OS disk (again just deploying the machine) :  <br/>
+<img src="https://i.imgur.com/WCW16IX.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+9. Made sure a new VNet and subnet were created automatically and made sure the port was correct as well:  <br/>
+<img src="https://i.imgur.com/TJUzhTt.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+10. After clicking 'Review + Create' i made sure the validation passed and then deployed the machine:  <br/>
+<img src="https://i.imgur.com/bZsUBI2.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+11. once machine was deployed i made sure it was up and working :  <br/>
+<img src="https://i.imgur.com/pT6GY6h.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+12. From there i hit connect, downloaded the RDP file, launched my windows app, signed in using the credentials i created and here is the screenshot of the VM live :  <br/>
+<img src="https://i.imgur.com/eyNAtZg.png" height="80%" width="80%" alt="Azure VM Steps"/>
 <br />
 <br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
 </p>
 
