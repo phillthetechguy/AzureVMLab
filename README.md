@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project consists of me creating and configuring the settings of a Virtual Machine in Azure. This is a step by step documentation of everything i did to set up and deploy the VM for this project. 
+This project consists of me creating and configuring the settings of a Virtual Machine in Azure. This is a step by step documentation of everything i did to set up and deploy the machine for this project. 
 <br />
 
 
