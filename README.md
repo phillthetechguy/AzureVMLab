@@ -15,7 +15,7 @@ This project consists of me creating and configuring the settings of a Virtual M
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10/11</b>
+- <b>Windows Server 2022</b>
 - <b>Azure Cloud</b>
 
 <h2>Lab walk-through:</h2>
