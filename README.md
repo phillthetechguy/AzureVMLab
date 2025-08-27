@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/80ab4f41-f8a0-49ef-9353-47fcea481b37
 <img width="1914" height="845" alt="s10" src="https://github.com/user-attachments/assets/252373dc-054e-4653-9290-a684e84786ee" />
 <br />
 <br />
-11. From there i hit connect, downloaded the RDP file, open my windows rdp app and log in :  <br/>
+11. From there i hit connect, downloaded the RDP file, open my windows rdp app to log in :  <br/>
 <img width="1914" height="845" alt="s11" src="https://github.com/user-attachments/assets/7e965f5a-8371-4d7f-b9cf-142a7d3ce230" />
 <br />
 <br />
